@@ -30,21 +30,21 @@ This project demonstrates the implementation and management of a help desk syste
 
 <h2>2. Simulating Ticket Management</h2>
 
-**Scenario 1: Mobile/Online Banking System Down**
+**Scenario 1: Computer is Running Slow**
 
-  -End User: Created a ticket reporting the outage.
+  -End User Gwen created a ticket reporting that her computer is running slow.
   
   -Help Desk Agent (John):
   
     -Observed and updated ticket properties:
-    
-      a.Priority: Sev-A (1 hour, 24/7).
-      
-      b.Department: Online Banking.
-      
-    -Observed restricted access after escalation.
-    
-  -Help Desk Agent (Jane): Resolved the ticket.
+
+  ![image](https://github.com/user-attachments/assets/3a777390-35a7-404b-85a8-97131181d9aa)
+
+  <h2>Ticket Thread</h2>
+
+  ![image](https://github.com/user-attachments/assets/952f0e25-3031-438e-ad18-9f1dbb765373)
+
+  ![image](https://github.com/user-attachments/assets/eaa2f459-e8dd-44c9-b238-2b64c8e18fec)
   
 Scenario 2: Adobe Upgrade Request
 
