@@ -34,9 +34,9 @@ This project demonstrates the implementation and management of a help desk syste
 
   -End User Gwen created a ticket reporting that her computer is running slow.
   
-  -Help Desk Agent (John):
+  -Help Desk Agent (eBn):
   
-    -Observed and updated ticket properties:
+  -Observed and updated ticket properties:
 
   ![image](https://github.com/user-attachments/assets/3a777390-35a7-404b-85a8-97131181d9aa)
 
@@ -46,20 +46,38 @@ This project demonstrates the implementation and management of a help desk syste
 
   ![image](https://github.com/user-attachments/assets/eaa2f459-e8dd-44c9-b238-2b64c8e18fec)
   
-Scenario 2: Adobe Upgrade Request
+**Scenario 2: Online Banking Portal is Down**
 
--End User: Submitted a ticket about a broken Adobe application.
--Help Desk Agent (John):
+-End User: Submitted a ticket about the online banking portal being inaccessible.
+
+-Help Desk Agent (Ken):
+
     -Updated properties:
-      -Priority: Sev-B (4 hours, 24/7).
-      -Department: Support.
+
+![image](https://github.com/user-attachments/assets/26a69377-7c87-40e1-842e-4367db9c28d1)
+
+<h2>Ticket Thread</h2>
+
+![image](https://github.com/user-attachments/assets/f7ef5b59-01bf-4500-a7ce-31741e788d61)
+
+![image](https://github.com/user-attachments/assets/3e1f2093-2fe7-411f-81ab-8d7572c03bfb)
+
+
 -Resolved the ticket.
 
-**Scenario 3: CFO’s Laptop Issue**
+**Scenario 3: Professor Wants a Speaker**
 
--End User: Created a ticket for an unresponsive laptop.
--Help Desk Agent (John):
+-End User: Created a ticket for professor who wants a speaker.
+
+-Help Desk Agent (Ben):
+
   -Updated properties:
-    -Priority: Sev-B (4 hours, 24/7).
-    -Department: Support.
+
+![image](https://github.com/user-attachments/assets/ffe23265-eec3-4f72-8355-fda33ae7d07b)
+
+<h2>Ticket Thread</h2>   
+
+![image](https://github.com/user-attachments/assets/0c708392-12aa-4d64-8e42-ee47e96f367d)
+
+    
   -Resolved the ticket.
